@@ -1,4 +1,4 @@
-import Client from "@/model/Client";
+import Client from "@/models/Client";
 import { EditIcon, TrashIcon } from "./Icons";
 
 interface TableProps {

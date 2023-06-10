@@ -1,4 +1,4 @@
-import Client from "@/model/Client";
+import Client from "@/models/Client";
 import { Input } from "./Input";
 import { useState } from "react";
 import { Button } from "./Button";
